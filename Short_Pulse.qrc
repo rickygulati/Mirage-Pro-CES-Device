@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pulses">
+        <file>Short_pulse.png</file>
+        <file>Long_pulse.png</file>
+        <file>Long_pulse_green.png</file>
+        <file>Short_pulse_green.png</file>
+    </qresource>
+</RCC>
